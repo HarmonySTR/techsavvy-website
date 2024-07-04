@@ -35,7 +35,7 @@ export default function Home() {
           <p className="text-xl">
           I hold a Bachelor of Science degree from Misamis University with a focus on Information Technology. 
           I graduated in the summer of 2023, along with Joshua Vicente and Kaita Ostia, who are colleagues of mine. 
-          Throughout our internship in Bluthrive, Jo Ren Lee Luna oversaw the three of us. Before we relocated to Canada to be near relatives, 
+          Throughout our internship in Bluthrive, Jo Renlee Luna oversaw the three of us. Before we relocated to Canada to be near relatives, 
           I spent the majority of my life in Ozamiz City. Through virtual means, 
           I work with TechSavvy Code Camp to establish our presence in the digital domain and to cultivate a community in Northern Mindanao that is committed to improving IT skills.
           </p>
